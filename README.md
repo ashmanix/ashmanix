@@ -2,7 +2,7 @@
   <image width="500px" height="500px" src="BannerLogo.png">
 </p>
   
-# Welcome to my chan....err Github Repo
+# Welcome to my chan....err GitHub Repo
 
 Having grown into a man child I've decided to try and do coding...sometimes and here is where I put the results of my brain farts! 💨
 
