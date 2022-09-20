@@ -1,5 +1,5 @@
 <p align="center">
-  <image width="500px" height="500px" src="BannerLogo.png">
+  <image width="250px" height="250px" src="BannerLogo.png">
 </p>
   
 # Welcome to my chan....err GitHub Repo
