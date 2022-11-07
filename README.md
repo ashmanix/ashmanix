@@ -6,7 +6,7 @@
 
 I've decided to try and do coding...sometimes and here is where I put the results of my brain farts! 💨
 
-Join me on my [YouTube](https://www.youtube.com/channel/UCviN0My48G75IQuR1cP-pbw) channel!
+Join me on my [YouTube](https://www.youtube.com/@ashmanix) channel!
 
 
 <!----
