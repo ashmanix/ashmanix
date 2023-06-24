@@ -8,7 +8,7 @@ I've decided to try and do coding...sometimes and here is where I put the result
 
 Join me on my [YouTube](https://www.youtube.com/@ashmanix) channel!
 
-
+I've become comfortable with the fact that I will never be good at C++ ☺️
 <!----
 - 👋 Hi, I’m @ashmanix
 - 👀 I’m interested in ...
