@@ -6,9 +6,13 @@
 
 I've decided to try and do coding...sometimes and here is where I put the results of my brain farts! 💨
 
-Join me on my [YouTube](https://www.youtube.com/channel/UCviN0My48G75IQuR1cP-pbw) channel!
+Join me on my [YouTube](https://www.youtube.com/@ashmanix) channel!
 
+I've become comfortable with the fact that I will never be good at C++ ☺️  
+<br><br><br>
+If you want to give me a tip then you can use the donation button below 👍
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L7P58JI)
 <!----
 - 👋 Hi, I’m @ashmanix
 - 👀 I’m interested in ...
