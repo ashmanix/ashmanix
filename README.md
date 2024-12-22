@@ -2,11 +2,11 @@
   <image width="250px" height="250px" src="BannerLogo.png">
 </p>
   
-# Welcome to my chan....err GitHub Repo
+# Welcome to the Ashmaix GitHub Repo!
 
 I've decided to try and do coding...sometimes and here is where I put the results of my brain farts! 💨
 
-Join me on my [YouTube](https://www.youtube.com/@ashmanix) channel!
+Join me on my [@ashmanix](https://www.youtube.com/@ashmanix) YouTube channel!
 
 I've become comfortable with the fact that I will never be good at C++ ☺️  
 
